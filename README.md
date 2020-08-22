@@ -2,7 +2,7 @@
 
 ![image](https://github.com/calganaygun/calganaygun/blob/master/dino.gif)
 
-- 🔭 I’m currently working on my personel projects
+- 🔭 I’m currently working on My Security Analytics
 - 📫 How to reach me: twitter.com/calganaygun
 
 <!--
