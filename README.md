@@ -11,7 +11,7 @@
 </a>
 <br/>
 <br/>
-<img width="90%" alt="Hackerman" align="center" src="https://i.imgur.com/h9TLdDf.png"/>
+<img width="100%" alt="Hackerman" src="https://i.imgur.com/h9TLdDf.png"/>
 <br/>
 <img align="right" alt="GIF" width="420px" src="https://media1.giphy.com/media/Mc7EEWR5oNV1FUupMc/giphy.gif"/>
 
