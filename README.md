@@ -10,6 +10,7 @@
   <img align="left" alt="Çalgan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
 </a>
 <br/>
+<br/>
 <img width="90%" alt="Hackerman" align="center" src="https://i.imgur.com/h9TLdDf.png"/>
 <br/>
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/Mc7EEWR5oNV1FUupMc/giphy.gif"/>
