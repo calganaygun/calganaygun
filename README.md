@@ -16,8 +16,8 @@
 <img align="right" alt="GIF" width="420px" src="https://media1.giphy.com/media/Mc7EEWR5oNV1FUupMc/giphy.gif"/>
 
 - 🔭 I’m currently working on [My Security Analytics](https://mysecurityanalytics.com/)
-- 📅 I’m organazing events at Google Cloud Developer Community, GDG Ankara, DSC Hacettepe
-- 🌱 I’m currently learning Apache Hi-Fi
+- 📅 I’m organazing events at Google Cloud Developer Community, GDG Ankara and DSC Hacettepe.
+- 🌱 I’m currently learning Apache NiFi
 - 📫 How to reach me: [twitter.com/calganaygun](https://twitter.com/calganaygun)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calganaygun&layout=compact)](https://github.com/calganaygun)
