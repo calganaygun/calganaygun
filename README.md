@@ -14,7 +14,7 @@
 </a>
 <br/>
 <br/>
-<img width="100%" alt="Hackerman Meme" src="https://i.imgur.com/h9TLdDf.png"/>
+<img width="100%" alt="Hackerman Meme" src="https://i.imgur.com/Lz9SWyT.png"/>
 <br/>
 <img align="right" alt="GIF" width="420px" src="https://media1.giphy.com/media/Mc7EEWR5oNV1FUupMc/giphy.gif"/>
 
