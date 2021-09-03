@@ -25,5 +25,4 @@
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1CALGANWmLsGoRmPNBkj76SVMWAEryQPQt)](https://en.cryptobadges.io/donate/1CALGANWmLsGoRmPNBkj76SVMWAEryQPQt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calganaygun&layout=compact)](https://github.com/calganaygun)
 
-[![YouTube Transcriber](https://github-readme-stats.vercel.app/api/pin/?username=calganaygun&repo=YoutubeTranscriber)](https://github.com/calganaygun/YoutubeTranscriber)
 </br>
