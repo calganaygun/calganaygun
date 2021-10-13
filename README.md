@@ -23,6 +23,7 @@
 - 📫 How to reach me: [twitter.com/calganaygun](https://twitter.com/calganaygun)
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1CALGANWmLsGoRmPNBkj76SVMWAEryQPQt)](https://en.cryptobadges.io/donate/1CALGANWmLsGoRmPNBkj76SVMWAEryQPQt)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B66KIDI)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calganaygun&layout=compact)](https://github.com/calganaygun)
 
 </br>
