@@ -18,12 +18,12 @@
 <br/>
 <img align="right" alt="GIF" width="420px" src="https://media1.giphy.com/media/Mc7EEWR5oNV1FUupMc/giphy.gif"/>
 
-- 🔭 I’m currently working on [My Security Analytics](https://mysecurityanalytics.com/)
+- 🔭 I’m currently working on [QuarPay](https://quarpay.io/) as Backend and Cloud Engineer.
 - 📅 I’m organazing events at Google Cloud Developer Community, GDG Ankara and DSC Hacettepe.
 - 📫 How to reach me: [twitter.com/calganaygun](https://twitter.com/calganaygun)
+- 📻 You can call me TA2CMA.
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/1CALGANWmLsGoRmPNBkj76SVMWAEryQPQt)](https://en.cryptobadges.io/donate/1CALGANWmLsGoRmPNBkj76SVMWAEryQPQt)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B66KIDI)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calganaygun&layout=compact)](https://github.com/calganaygun)
 
 </br>
