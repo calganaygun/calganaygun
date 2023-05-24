@@ -16,7 +16,7 @@
 <br/>
 <img width="100%" alt="Hackerman Meme" src="https://i.imgur.com/Lz9SWyT.png"/>
 <br/>
-<img align="right" alt="GIF" width="420px" src="https://media1.giphy.com/media/Mc7EEWR5oNV1FUupMc/giphy.gif"/>
+<img align="right" alt="GIF" width="420px" src="https://i.imgur.com/dAVNJ1F.gif"/>
 
 - 🔭 I’m currently working on [QuarPay](https://quarpay.io/) as Backend and Cloud Engineer.
 - 📅 I’m organizing events at Google Cloud Developer Community, GDG Ankara and DSC Hacettepe.
