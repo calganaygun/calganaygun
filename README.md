@@ -18,8 +18,8 @@
 <br/>
 <img align="right" alt="GIF" width="420px" src="https://i.imgur.com/dAVNJ1F.gif"/>
 
-- 🔭 I’m currently working on [QuarPay](https://quarpay.io/) as Backend and Cloud Engineer.
-- 📅 I’m organizing events at Google Cloud Developer Community, GDG Ankara and DSC Hacettepe.
+- 🔭 I’m currently working on [Finalcheck](https://finalcheck.net/) as Senior DevOps Engineer.
+- 📅 I’m organizing events at Google Cloud Developer Community, GDG Ankara.
 - 📫 How to reach me: [twitter.com/calganaygun](https://twitter.com/calganaygun)
 - 📻 You can call me TA2CMA.
 
