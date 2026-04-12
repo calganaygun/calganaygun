@@ -19,9 +19,9 @@
 <img align="right" alt="GIF" width="420px" src="https://i.imgur.com/dAVNJ1F.gif"/>
 
 - 🔭 I’m currently working on [Finalcheck](https://finalcheck.net/) as Senior DevOps Engineer.
-- 📅 I’m organizing events at Google Cloud Developer Community, GDG Ankara.
+- 🎤 I’m a Google Developer Expert on Cloud, and ex-community organizer.
 - 📫 How to reach me: [twitter.com/calganaygun](https://twitter.com/calganaygun)
-- 📻 You can call me TA2CMA.
+- 📻 Ham radio: TA2CMA.
 
 
 [![Support with BTC](https://img.shields.io/keybase/btc/calganaygun)](https://www.blockchain.com/btc/address/1CALGANWmLsGoRmPNBkj76SVMWAEryQPQt)
