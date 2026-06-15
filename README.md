@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on [Finalcheck](https://finalcheck.net/) as Senior DevOps Engineer.
 - 🎤 I’m a Google Developer Expert on Cloud, and ex-community organizer.
 - 📫 How to reach me: [twitter.com/calganaygun](https://twitter.com/calganaygun)
-- 📻 Ham radio: TA2CMA.
+- 📻 Ham radio: SQ5CA.
 
 
 [![Support with BTC](https://img.shields.io/keybase/btc/calganaygun)](https://www.blockchain.com/btc/address/1CALGANWmLsGoRmPNBkj76SVMWAEryQPQt)
